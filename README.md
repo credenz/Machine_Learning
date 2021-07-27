@@ -7,3 +7,6 @@ Contribution Guidelines:
 - Feel free to cite information from other sources with proper references.
 - Do not add links to internships/project opportunities from unverified sources.
 - Do not add any private research papers downloaded from unauthorized websites, open or authorized access only.
+
+
+Contact @Infernolia for detailed contribution guidelines or for more information about this repository.
