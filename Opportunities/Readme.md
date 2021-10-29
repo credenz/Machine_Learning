@@ -1,5 +1,5 @@
 # Opportunities in Machine Learning
 
 - Open Collaboration projects at Omdena : https://omdena.com/
-- Hackathons
+- Hackathons (Check Competitions Page on platforms like Kaggle, Devpost & Hackerearth)
 - GSOC, RGSOC, GSSOC and other Summer of Code programs
